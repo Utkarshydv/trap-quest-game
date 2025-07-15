@@ -20,3 +20,4 @@ Trap Quest is a 2D platformer game inspired by *Level Devil*, built using **Phas
 
 https://github.com/user-attachments/assets/74fe3e94-6c22-4d75-8cc0-211f85c58811
 
+By Utkarsh
